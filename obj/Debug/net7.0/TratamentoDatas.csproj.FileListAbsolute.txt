@@ -1,0 +1,14 @@
+C:\dio\TratamentoDatas\bin\Debug\net7.0\TratamentoDatas.exe
+C:\dio\TratamentoDatas\bin\Debug\net7.0\TratamentoDatas.deps.json
+C:\dio\TratamentoDatas\bin\Debug\net7.0\TratamentoDatas.runtimeconfig.json
+C:\dio\TratamentoDatas\bin\Debug\net7.0\TratamentoDatas.dll
+C:\dio\TratamentoDatas\bin\Debug\net7.0\TratamentoDatas.pdb
+C:\dio\TratamentoDatas\obj\Debug\net7.0\TratamentoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\TratamentoDatas\obj\Debug\net7.0\TratamentoDatas.AssemblyInfoInputs.cache
+C:\dio\TratamentoDatas\obj\Debug\net7.0\TratamentoDatas.AssemblyInfo.cs
+C:\dio\TratamentoDatas\obj\Debug\net7.0\TratamentoDatas.csproj.CoreCompileInputs.cache
+C:\dio\TratamentoDatas\obj\Debug\net7.0\TratamentoDatas.dll
+C:\dio\TratamentoDatas\obj\Debug\net7.0\refint\TratamentoDatas.dll
+C:\dio\TratamentoDatas\obj\Debug\net7.0\TratamentoDatas.pdb
+C:\dio\TratamentoDatas\obj\Debug\net7.0\TratamentoDatas.genruntimeconfig.cache
+C:\dio\TratamentoDatas\obj\Debug\net7.0\ref\TratamentoDatas.dll
