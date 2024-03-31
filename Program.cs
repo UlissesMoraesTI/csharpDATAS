@@ -56,3 +56,10 @@ else
 {
     Console.WriteLine($"{dataString7} não é uma data válida!");
 }
+
+//Calcular em dias - Exemplo boleto pago.
+DateTime entradaEmpresa = new DateTime(2021, 1, 1);
+TimeSpan quantoTempoDeEmpresa = new DateTime.now - entradaEmpresa;
+
+
+
